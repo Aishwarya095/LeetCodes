@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aishwarya095/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aishwarya095/LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aishwarya095/LeetCodes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aishwarya095/LeetCodes/tree/master/0031-next-permutation) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aishwarya095/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aishwarya095/LeetCodes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aishwarya095/LeetCodes/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aishwarya095/LeetCodes/tree/master/0031-next-permutation) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0852-peak-index-in-a-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aishwarya095/LeetCodes/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

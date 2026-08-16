@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Aishwarya095/LeetCodes/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aishwarya095/LeetCodes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/Aishwarya095/LeetCodes/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya095/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aishwarya095/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aishwarya095/LeetCodes/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/Aishwarya095/LeetCodes/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -57,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aishwarya095/LeetCodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aishwarya095/LeetCodes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aishwarya095/LeetCodes/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/Aishwarya095/LeetCodes/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Aishwarya095/LeetCodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aishwarya095/LeetCodes/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Aishwarya095/LeetCodes/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aishwarya095/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Aishwarya095/LeetCodes/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |

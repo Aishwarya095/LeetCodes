@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aishwarya095/LeetCodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aishwarya095/LeetCodes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aishwarya095/LeetCodes/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Aishwarya095/LeetCodes/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Aishwarya095/LeetCodes/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aishwarya095/LeetCodes/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Aishwarya095/LeetCodes/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Aishwarya095/LeetCodes/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya095/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aishwarya095/LeetCodes/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Aishwarya095/LeetCodes/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

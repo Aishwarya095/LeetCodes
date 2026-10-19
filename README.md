@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya095/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0896-monotonic-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0896-monotonic-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Aishwarya095/LeetCodes/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |

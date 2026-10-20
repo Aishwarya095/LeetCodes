@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aishwarya095/LeetCodes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aishwarya095/LeetCodes/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Aishwarya095/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/Aishwarya095/LeetCodes/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aishwarya095/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya095/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Aishwarya095/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya095/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
